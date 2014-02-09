@@ -1,0 +1,14 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ruby1.9.3 is already the newest version.
+The following extra packages will be installed:
+  libreadline5 libruby1.8 ruby1.8
+Suggested packages:
+  ri ruby-dev ruby1.8-examples ri1.8
+The following NEW packages will be installed:
+  libreadline5 libruby1.8 ruby ruby1.8
+0 upgraded, 4 newly installed, 0 to remove and 500 not upgraded.
+Need to get 1,826 kB/1,949 kB of archives.
+After this operation, 7,017 kB of additional disk space will be used.
+Do you want to continue [Y/n]? 
